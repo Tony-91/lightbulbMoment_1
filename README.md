@@ -1,5 +1,7 @@
 # What i learned from a simple addition function in Javascript  
 
+![](images/addFunc.png)
+
 - A function that adds numbers together. We prompt the user for n amount of inputs. While num is a number, run code block, otherwise stop while loop. While num is either ‘q’ or ‘Q’, stop the while loop. 
 
 - I learned the importance of “starting from 0”, makes code more dynamical - changes over time. Rather than hard coding numbers. Maybe that’s a good tip: no hard coding, always use variables when possible. Punch holes or leave room for values. 
