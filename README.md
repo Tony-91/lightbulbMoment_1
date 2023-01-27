@@ -1,4 +1,6 @@
-# What i learned from a simple addition function in Javascript  
+# When the lightbulb goes off...  
+
+## Simply Add()
 
 ![](images/addFunc.png)
 
